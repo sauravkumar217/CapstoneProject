@@ -29,8 +29,6 @@
 ✅ Context API for State Management
 ✅ Mock API using JSON Server
 
-## 🖼️ Screenshots
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
