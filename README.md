@@ -34,9 +34,9 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Login Page](public/assets/screenshot1.png)
+![Login Page](agile-track-system/public/assets/screenshot1.png)
 
 ### 📊 Dashboard
-![Dashboard](public/assets/screenshot2.png)
+![Dashboard](agile-track-system/public/assets/screenshot2.png)
 
 
